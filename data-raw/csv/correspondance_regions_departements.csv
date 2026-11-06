@@ -1,0 +1,102 @@
+Code région ISO,Nom de la région,Code département ISO,Nom du département
+FR-ARA,Auvergne-Rhône-Alpes,FR-01,Ain
+FR-ARA,Auvergne-Rhône-Alpes,FR-03,Allier
+FR-ARA,Auvergne-Rhône-Alpes,FR-07,Ardèche
+FR-ARA,Auvergne-Rhône-Alpes,FR-15,Cantal
+FR-ARA,Auvergne-Rhône-Alpes,FR-26,Drôme
+FR-ARA,Auvergne-Rhône-Alpes,FR-38,Isère
+FR-ARA,Auvergne-Rhône-Alpes,FR-42,Loire
+FR-ARA,Auvergne-Rhône-Alpes,FR-43,Haute-Loire
+FR-ARA,Auvergne-Rhône-Alpes,FR-63,Puy-de-Dôme
+FR-ARA,Auvergne-Rhône-Alpes,FR-69,Rhône
+FR-ARA,Auvergne-Rhône-Alpes,FR-73,Savoie
+FR-ARA,Auvergne-Rhône-Alpes,FR-74,Haute-Savoie
+FR-BFC,Bourgogne-Franche-Comté,FR-21,Côte-d'Or
+FR-BFC,Bourgogne-Franche-Comté,FR-25,Doubs
+FR-BFC,Bourgogne-Franche-Comté,FR-39,Jura
+FR-BFC,Bourgogne-Franche-Comté,FR-58,Nièvre
+FR-BFC,Bourgogne-Franche-Comté,FR-70,Haute-Saône
+FR-BFC,Bourgogne-Franche-Comté,FR-71,Saône-et-Loire
+FR-BFC,Bourgogne-Franche-Comté,FR-89,Yonne
+FR-BFC,Bourgogne-Franche-Comté,FR-90,Territoire de Belfort
+FR-BRE,Bretagne,FR-22,Côtes-d'Armor
+FR-BRE,Bretagne,FR-29,Finistère
+FR-BRE,Bretagne,FR-35,Ille-et-Vilaine
+FR-BRE,Bretagne,FR-56,Morbihan
+FR-CVL,Centre-Val de Loire,FR-18,Cher
+FR-CVL,Centre-Val de Loire,FR-28,Eure-et-Loir
+FR-CVL,Centre-Val de Loire,FR-36,Indre
+FR-CVL,Centre-Val de Loire,FR-37,Indre-et-Loire
+FR-CVL,Centre-Val de Loire,FR-41,Loir-et-Cher
+FR-CVL,Centre-Val de Loire,FR-45,Loiret
+FR-GES,Grand Est,FR-08,Ardennes
+FR-GES,Grand Est,FR-10,Aube
+FR-GES,Grand Est,FR-51,Marne
+FR-GES,Grand Est,FR-52,Haute-Marne
+FR-GES,Grand Est,FR-54,Meurthe-et-Moselle
+FR-GES,Grand Est,FR-55,Meuse
+FR-GES,Grand Est,FR-57,Moselle
+FR-GES,Grand Est,FR-67,Bas-Rhin
+FR-GES,Grand Est,FR-68,Haut-Rhin
+FR-GES,Grand Est,FR-88,Vosges
+FR-HDF,Hauts-de-France,FR-02,Aisne
+FR-HDF,Hauts-de-France,FR-59,Nord
+FR-HDF,Hauts-de-France,FR-60,Oise
+FR-HDF,Hauts-de-France,FR-62,Pas-de-Calais
+FR-HDF,Hauts-de-France,FR-80,Somme
+FR-IDF,Île-de-France,FR-75,Paris
+FR-IDF,Île-de-France,FR-77,Seine-et-Marne
+FR-IDF,Île-de-France,FR-78,Yvelines
+FR-IDF,Île-de-France,FR-91,Essonne
+FR-IDF,Île-de-France,FR-92,Hauts-de-Seine
+FR-IDF,Île-de-France,FR-93,Seine-Saint-Denis
+FR-IDF,Île-de-France,FR-94,Val-de-Marne
+FR-IDF,Île-de-France,FR-95,Val-d'Oise
+FR-NOR,Normandie,FR-14,Calvados
+FR-NOR,Normandie,FR-27,Eure
+FR-NOR,Normandie,FR-50,Manche
+FR-NOR,Normandie,FR-61,Orne
+FR-NOR,Normandie,FR-76,Seine-Maritime
+FR-NAQ,Nouvelle-Aquitaine,FR-16,Charente
+FR-NAQ,Nouvelle-Aquitaine,FR-17,Charente-Maritime
+FR-NAQ,Nouvelle-Aquitaine,FR-19,Corrèze
+FR-NAQ,Nouvelle-Aquitaine,FR-23,Creuse
+FR-NAQ,Nouvelle-Aquitaine,FR-24,Dordogne
+FR-NAQ,Nouvelle-Aquitaine,FR-33,Gironde
+FR-NAQ,Nouvelle-Aquitaine,FR-40,Landes
+FR-NAQ,Nouvelle-Aquitaine,FR-47,Lot-et-Garonne
+FR-NAQ,Nouvelle-Aquitaine,FR-64,Pyrénées-Atlantiques
+FR-NAQ,Nouvelle-Aquitaine,FR-79,Deux-Sèvres
+FR-NAQ,Nouvelle-Aquitaine,FR-86,Vienne
+FR-NAQ,Nouvelle-Aquitaine,FR-87,Haute-Vienne
+FR-OCC,Occitanie,FR-09,Ariège
+FR-OCC,Occitanie,FR-11,Aude
+FR-OCC,Occitanie,FR-12,Aveyron
+FR-OCC,Occitanie,FR-30,Gard
+FR-OCC,Occitanie,FR-31,Haute-Garonne
+FR-OCC,Occitanie,FR-32,Gers
+FR-OCC,Occitanie,FR-34,Hérault
+FR-OCC,Occitanie,FR-46,Lot
+FR-OCC,Occitanie,FR-48,Lozère
+FR-OCC,Occitanie,FR-65,Hautes-Pyrénées
+FR-OCC,Occitanie,FR-66,Pyrénées-Orientales
+FR-OCC,Occitanie,FR-81,Tarn
+FR-OCC,Occitanie,FR-82,Tarn-et-Garonne
+FR-PDL,Pays de la Loire,FR-44,Loire-Atlantique
+FR-PDL,Pays de la Loire,FR-49,Maine-et-Loire
+FR-PDL,Pays de la Loire,FR-53,Mayenne
+FR-PDL,Pays de la Loire,FR-72,Sarthe
+FR-PDL,Pays de la Loire,FR-85,Vendée
+FR-PAC,Provence-Alpes-Côte d'Azur,FR-04,Alpes-de-Haute-Provence
+FR-PAC,Provence-Alpes-Côte d'Azur,FR-05,Hautes-Alpes
+FR-PAC,Provence-Alpes-Côte d'Azur,FR-06,Alpes-Maritimes
+FR-PAC,Provence-Alpes-Côte d'Azur,FR-13,Bouches-du-Rhône
+FR-PAC,Provence-Alpes-Côte d'Azur,FR-83,Var
+FR-PAC,Provence-Alpes-Côte d'Azur,FR-84,Vaucluse
+FR-COR,Corse,FR-2A,Corse-du-Sud
+FR-COR,Corse,FR-2B,Haute-Corse
+GLP,Guadeloupe,FR-971,Guadeloupe
+MTQ,Martinique,FR-972,Martinique
+GUF,Guyane,FR-973,Guyane
+REU,La Réunion,FR-974,La Réunion
+MYT,Mayotte,FR-976,Mayotte
